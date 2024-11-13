@@ -1,0 +1,19 @@
+{
+  "name": "test-nodejs",
+  "version": "0.0.1",
+  "description": "nodejs backend for betterlives",
+  "main": "index.mjs",
+  "dependencies": {
+    "atob": "^2.1.2",
+    "axios": "^1.7.7",
+    "md5": "^2.3.0",
+    "pg": "^8.12.0",
+    "pg-pool": "^3.7.0",
+    "pg-prepared": "^2.5.13"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tianchi Wu",
+  "license": "ISC"
+}
